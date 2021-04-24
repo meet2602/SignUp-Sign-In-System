@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SignUp &amp; Sign In System</string>
+    <string name="enter_the_user_name">Enter the Username</string>
+    <string name="enter_the_email_id">Enter the email id</string>
+    <string name="todo">TODO</string>
+    <string name="enter_the_country">Enter the country</string>
+    <string name="add">+</string>
+    <string name="enter_the_phone_number">Enter the phone number</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="enter_the_confirm_password">Enter the confirm password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register_page">Register Page</string>
+    <string name="login_page">Login Page</string>
+    <string name="create_account">Create Account</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="logout">Logout</string>
+    <string name="forgot_password_page">Forgot Password Page</string>
+    <string name="send_email">Send Email</string>
+    <string name="select_country">Select Country</string>
+    <string name="search">Search</string>
+    <string name="_91">+91</string>
+    <string name="gender1">Gender :-</string>
+    <string name="mobile_no1">Mobile No. :-</string>
+    <string name="country1">Country :-</string>
+    <string name="email_id1">Email Id :-</string>
+    <string name="username1">UserName :-</string>
+</resources>
