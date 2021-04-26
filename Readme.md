@@ -1,5 +1,5 @@
 # SignUp-Sign-In-System
-I have used authentication with proper validation at the starting of the app and have made simple insert update delete items using no libraries but only firebase library and also tried to reduce/optimise code.
+I have used authentication with proper validation at the starting of the app  using no libraries but only firebase library and also tried to reduce/optimise code.
 # Screenshot
 Light Mode:-
 <div style="display:flex;">
